@@ -1,7 +1,7 @@
 # Hello, I'm Chanhong
 > Markdown Study
 
-Font  
+## Font  
 **Bold**  
 *Italic*  
 **_Italic Bold_**   
@@ -9,5 +9,5 @@ Font
 <u>underline</u>  
 
 * list
-+ list
-- list
+  + list
+    - list
