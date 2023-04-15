@@ -1,10 +1,10 @@
 # Hello, I'm Chanhong
 > Markdown Study
 
-Font
+Font  
 **Bold**  
-*Italic*
-**_Italic Bold_**
+*Italic*  
+**_Italic Bold_** 
 ~~strikethrough~~ 
 <u>underline</u>
 
