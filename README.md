@@ -1,6 +1,13 @@
 # Hello, I'm Chanhong
 > Markdown Study
 
-**Bold**
-~~strikethrough~~   
-*Italic*   
+Font
+**Bold**  
+*Italic*
+**_Italic Bold_**
+~~strikethrough~~ 
+<u>underline</u>
+
+* list
++ list
+- list
