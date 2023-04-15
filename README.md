@@ -1,6 +1,6 @@
 # Hello, I'm Chanhong
 > Markdown Study
 
-**Bold**   
+**Bold**
 ~~strikethrough~~   
 *Italic*   
