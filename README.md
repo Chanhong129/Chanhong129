@@ -8,6 +8,7 @@
 ~~strikethrough~~   
 <u>underline</u>  
 
+## list
 * list
   + list
     - list
