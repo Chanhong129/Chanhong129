@@ -19,8 +19,7 @@ Click [Google](https://google.com)
 *Italic*  
 **_Italic Bold_**   
 ~~strikethrough~~   
-
-<U>underline</U>  
+<ins>underline</ins>  
 
 ## list
 * list
