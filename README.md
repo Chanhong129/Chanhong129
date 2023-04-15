@@ -1,5 +1,5 @@
 # Hello, I'm Chanhong
-> Markdown Study   
+> Markdown Study
 
 **Bold**   
 ~~strikethrough~~   
