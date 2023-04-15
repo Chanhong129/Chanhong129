@@ -49,4 +49,4 @@ Console.Write("Code test");
 ![test_image-description](https://discourse-dotnetdev-upload.ewr1.vultrobjects.com/original/1X/733ba4d0a11f167d295a4a7257e40bcbc93d91bb.png)
 
 <img src="https://discourse-dotnetdev-upload.ewr1.vultrobjects.com/original/1X/733ba4d0a11f167d295a4a7257e40bcbc93d91bb.png" 
-     width="450px" height="450px" title="px(픽셀) 크기 설정" alt="dotNetDev"></img><br/>
+     width="450" height="450" alt="dotNetDev"></img><br/>
