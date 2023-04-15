@@ -4,9 +4,9 @@
 Font  
 **Bold**  
 *Italic*  
-**_Italic Bold_** 
-~~strikethrough~~ 
-<u>underline</u>
+**_Italic Bold_**   
+~~strikethrough~~   
+<u>underline</u>  
 
 * list
 + list
